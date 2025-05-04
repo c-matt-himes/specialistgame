@@ -1,4 +1,5 @@
 from IntroSpecialistMechanic import *
+ran_num=5
 
 #Diplomacy, Insurrection, Espionage, Martial, Leadership
 
